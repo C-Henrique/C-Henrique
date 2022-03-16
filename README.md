@@ -1,9 +1,8 @@
 ## C. Henrique
 ### Hello, Devs!!👋
 
-- 🔭 Atualmente estou trabalhando com Assistencia em Sistema
+- 🔭 Atualmente estou focado em Web!
 - 🌱 Atualmente estou aprendendo Web Development
-- 👯 Estou procurando colaborar em Projetos Pessoais
 - 🤔 Estou procurando ajuda com ReactJS, JavaScript e VueJs
 - ⚡ Curiosidade: "Descrever um dia em que a pessoa se sentiu curiosa provou aumentar a energia mental e física 20% a mais do que descrever momentos de profunda felicidade."
 -->
